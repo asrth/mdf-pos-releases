@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "version_code": 10108,
-  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.8/mdf-pos-stg-1.1.8.apk",
-  "sha256": "b9760150309b0bf7c83674f00e15292686159684d0a6d877e6f2e7f36e78469b",
-  "notes": "ตรวจเวอร์ชันและอัปเดตแอปจากเมนูได้แล้ว (เมนู > ตรวจสอบเวอร์ชัน)"
+  "version": "1.1.9",
+  "version_code": 10109,
+  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.9/mdf-pos-stg-1.1.9.apk",
+  "sha256": "dc70716a356c7e8c0af6131a1e9675998b012e370aa82c048bd85ee55515e228",
+  "notes": "แก้ข้อความแนะนำตอนติดตั้งอัปเดต"
 }
