@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "version_code": 10109,
-  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.9/mdf-pos-stg-1.1.9.apk",
-  "sha256": "dc70716a356c7e8c0af6131a1e9675998b012e370aa82c048bd85ee55515e228",
-  "notes": "แก้ข้อความแนะนำตอนติดตั้งอัปเดต"
+  "version": "1.1.20",
+  "version_code": 10120,
+  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.20/mdf-pos-stg-1.1.20.apk",
+  "sha256": "464ee6bc964f03e8e1992032590bc7c9a0690849f4d4fcceea3a173df2a5661f",
+  "notes": "ชำระ WeChat ผ่าน 2C2P, ปุ่มรีเฟรชหน้าตรวจเวอร์ชัน, เลข 2C2P ในหน้าบิล"
 }
