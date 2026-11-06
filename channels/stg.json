@@ -1,7 +1,7 @@
 {
-  "version": "1.1.21",
-  "version_code": 10121,
-  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.21/mdf-pos-stg-1.1.21.apk",
-  "sha256": "4ae1c7773853d37a50edf55bd72b58503b9489151728aab47e5ea5daa4b32f76",
-  "notes": "ค้นลูกค้าจากเบอร์ในหน้าชำระเงิน, เพิ่ม QR TrueMoney และ ShopeePay"
+  "version": "1.1.22",
+  "version_code": 10122,
+  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.22/mdf-pos-stg-1.1.22.apk",
+  "sha256": "b08df81ed813e1eb17cf5167b14f15eae063e820a1352fcd27e93d54860eca15",
+  "notes": "ตั้งค่าเครื่อง: เพิ่มสวิตช์สั่นเมื่อแตะปุ่ม และเสียงคลิกเมื่อแตะปุ่ม"
 }
