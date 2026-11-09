@@ -1,0 +1,7 @@
+{
+  "version": "1.1.24",
+  "version_code": 10124,
+  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/v1.1.24/mdf-pos-prod-1.1.24.apk",
+  "sha256": "44081fff9cdfe3fb7b3c942cac0a6ddb0d82257595cc6bc3e873ab3d4c4612e5",
+  "notes": "Production 1.1.24: รับชำระด้วยบัตรเครดิต (เครื่อง EDC)"
+}
