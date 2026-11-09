@@ -1,7 +1,7 @@
 {
-  "version": "1.1.23",
-  "version_code": 10123,
-  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.23/mdf-pos-stg-1.1.23.apk",
-  "sha256": "781cc5c7c94e1b98d3d1d4bf3a4c6e3efc3353b32b531a3fe6bb5e1827ced7d7",
-  "notes": "เสียงคลิกเมื่อแตะปุ่ม เปิดเป็นค่าเริ่มต้น และตัดการสั่นออก"
+  "version": "1.1.24",
+  "version_code": 10124,
+  "url": "https://github.com/asrth/mdf-pos-releases/releases/download/stg-v1.1.24/mdf-pos-stg-1.1.24.apk",
+  "sha256": "19fafcdd9d43496776078178bc8f01f98b2e85cbaeb150e694570612fccdff7d",
+  "notes": "รับชำระด้วยบัตรเครดิต (เครื่อง EDC) แสดงเมื่อเปิดใช้ในตั้งค่า POS ของ BO"
 }
